@@ -2,12 +2,17 @@
 
 # Project Overview
 
-The Student Vehicle Registration and Campus Parking Management System is a web based system designed to improve vehicle registration and parking management within the university campus.
+The Student Vehicle Registration and Campus Parking Management System is a web-based system designed to help university students register their vehicles and access campus parking information.
 
-The system provides a convenient platform for students to register their vehicles, manage vehicle information, and view campus parking information. It also allows administrators to manage vehicle registrations, monitor parking areas, and record parking violations.
+The system provides a convenient platform for students to submit their vehicle details, manage their registered vehicles and check campus parking information. It also allows administrators to manage student vehicle records and registration requests.
+
+The system is designed with a mobile-friendly interface to make it easier for students to access its features.
 
 # Problem Statement
 
+Managing student vehicle registration manually can be time-consuming and difficult. Students may face difficulties when submitting vehicle information and finding campus parking details. Administrators may also experience challenges in organising and managing student vehicle records.
+
+Therefore, this system is proposed to simplify vehicle registration and provide students with easier access to campus parking information.
 
 # Project Objectives
 
@@ -15,130 +20,100 @@ The objectives of this project are:
 
 -To provide an online platform for students to register their vehicles.
 
--To simplify the management of student vehicle records.
+-To simplify the management of student vehicle information.
+
+-To allow students to view their vehicle registration status.
 
 -To provide accessible campus parking information.
 
--To help administrators manage vehicle registrations and parking-related activities.
-
--To improve the efficiency of campus vehicle and parking management.
+-To improve the efficiency of student vehicle registration and campus parking management.
 
 # Proposed System Modules
 
-The system consists of four main modules:
+The system consists of three main modules:
 
 Module 1: Student Account Management
 
--Student registration and login.
+Student registration and login.
 
--Manage personal information.
+Manage personal information.
 
--View account details.
+View account details.
 
-Module 2: Vehicle Registration Management
+Module 2: Student Vehicle Registration Management
 
 Register student vehicles.
 
 Submit vehicle information.
 
-Upload required documents, such as driving licences and vehicle insurance documents.
+Upload required documents, such as driving licences and vehicle insurance documents, if required.
 
-View vehicle registration status.
+View registered vehicle details.
 
-Module 3: Parking Information Management
+Check vehicle registration status.
 
-View available campus parking areas.
+Module 3: Campus Parking Information Management
+
+View campus parking locations.
 
 Check parking information.
 
-View parking area status.
-
-Module 4: Admin and Violation Management
-
-Manage student accounts and vehicle records.
-
-Approve or reject vehicle registrations.
-
-Record parking violations.
-
-Issue digital parking violation notifications.
+View parking area status, if available.
 
 # Target Users
 
--Students: Register their vehicles, manage vehicle details and access parking information.
+1. Students
 
--Administrators: Manage student vehicle registrations and campus parking information.
+-Register their vehicles.
 
--Parking / Security Staff: Assist with monitoring registered vehicles and parking-related activities, subject to confirmed requirements.
+-Manage their vehicle information.
+
+-View vehicle registration status.
+
+-Access campus parking information.
+
+2. Administrators
+
+-Manage student vehicle records.
+
+-Review vehicle registration applications.
+
+-Approve or reject vehicle registrations.
+
+-Update campus parking information.
 
 # Project Scope
 
--Web-based application.
+-Web-based application with a mobile-friendly interface.
 
--Designed for university campus use.
+-Designed specifically for university students.
 
--Focuses on vehicle registration and parking management.
-
--Does not include online payment functionality.
+-Focuses on student vehicle registration and campus parking management.
 
 -Provides separate access for students and administrators.
 
-# Group Members
+-Allows students to manage their vehicle information.
 
+-Provides campus parking information.
 
+-Does not include online payment functionality.
 
-[Member 1]
-
-Name
-
-Matric Number
-
-Responsibility
-
-
-
-[Member 2]
-
-Name
-
-Matric Number
-
-Responsibility
-
-
-
-[Member 3]
-
-Name
-
-Matric Number
-
-Responsibility
-
-
-
-[Member 4]
-
-Name
-
-Matric Number
-
-Responsibility
+-Does not focus on staff vehicle registration.
 
 
 # Technologies and Tools
 
-The technologies and tools used for this project include:
+-Programming Language: Java
 
-Programming Language: Java
+-IDE: NetBeans
 
-IDE: NetBeans
+-Database: MySQL
 
-Database: MySQL
+-UI Design: Canva
 
-UI Design: Figma / Draw.io / Canva
+-Diagram Design: Draw.io
 
-Project Collaboration: GitHub
+-Project Collaboration: GitHub
 
 # Project Documentation
 
