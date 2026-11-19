@@ -1,1 +1,30 @@
-
+CampusPark/
+│
+├── Login & Account/
+│   ├── Login
+│   └── Sign Up
+│
+├── Dashboard/
+│   └── Student Dashboard
+│
+├── Vehicle Registration/
+│   ├── Registration Form
+│   ├── Registration Status
+│   └── Registered Vehicle
+│
+├── QR Sticker/
+│   └── Digital QR Code
+│
+├── Parking Information/
+│   ├── Parking Locations
+│   ├── Parking Availability
+│   └── Parking Guidelines
+│
+├── Parking Violations/
+│   ├── Violation Records
+│   └── Appeal
+│
+└── Settings/
+    ├── Edit Profile
+    ├── Change Password
+    └── Notification Preferences
