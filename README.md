@@ -1,4 +1,4 @@
-# (CarPark) Student Vehicle Registration and Campus Parking Management System
+# (CampusPark) Student Vehicle Registration and Campus Parking Management System
 
 # Project Overview
 
